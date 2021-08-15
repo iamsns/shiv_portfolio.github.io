@@ -1,0 +1,122 @@
+body
+{
+    text-align: center;
+    margin: 0px;
+    font-family: 'Arvo', serif;
+}
+.top-container{
+    position: relative;
+    background-color: #EEEADE;
+    margin: 0px;
+    padding-top: 100px;
+    
+}
+h1
+{
+    color: #66BFBF;
+    line-height: 1.5;
+    margin: 0px;
+    margin-top: 15px;
+    padding: 0px;
+    font-size: 5.62rem;
+    font-family: 'serif';
+}
+#sub-title{
+    font-weight: normal;
+}
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.profile{
+    margin-bottom: 30px;
+}
+.logo
+{
+    width: 200px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+.developer-image
+{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.designer-image
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.skill-row{
+    width: 48%;
+    margin: 100px auto;
+    text-align: left;
+}
+.btn {
+    margin-top: 20px;
+    border-radius: 7px;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 500;
+    padding: 8px 12px;
+    background-color: #16BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+.btn:hover{
+    background-color: #16dFdF;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 40px 0 20px;
+}
+.contact-discription{
+    width: 35%;
+    margin: auto;
+}
+.rights{
+    color: white;
+    margin: 00;
+    padding-top: 30px;
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2.5rem;
+}
+h3{
+    color: #66bfbf;
+}
+a{
+    text-decoration: none;
+    color: rgb(44, 54, 31);
+    margin: 14px;
+    transition: .4s;
+}
+a:hover{
+    color: #FFEFEF;
+}
+p{
+    line-height: 2;
+    color: #40514E;
+}
+hr{
+    border: 6px dotted rgb(212, 212, 212);
+    border-bottom: hidden;
+    width: 5%;
+}
